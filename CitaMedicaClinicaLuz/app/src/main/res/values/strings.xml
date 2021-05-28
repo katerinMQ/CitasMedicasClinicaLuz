@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">CitaMedicaClinicaLuz</string>
+
+    <string name="register_button">No tienes una cuenta? <b>Registrar Aquí</b></string>
+
+    <!--main_menu -->
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_reservar">Reservar cita</string>
+    <string name="menu_historial">Historial médico</string>
+    <string name="menu_ubicacion">Ubicacion</string>
+    <string name="menu_citas">Citas médicas</string>
+    <string name="salir">Salir</string>
+    <string name="logout">Regresar</string>
+    <string name="all">TODO</string>
+
+    <string name="nombre_medico">Dr. Jose Prado</string>
+    <string name="especialidad_medico">Medicina General</string>
+
+    <!--ActionBarDrawerToggle -->
+    <string name="navigation_drawer_open">Abrir</string>
+    <string name="navigation_drawer_close">Cerrar</string>
+
+    <!--especialidades de la clinica -->
+    <string name="medicina_esp">Medicina General</string>
+    <string name="odontologia_esp">Odontologia</string>
+    <string name="oftamologia_esp">Oftamologia</string>
+    <string name="oncologia_esp">Oncologia</string>
+
+    <string name="expand_all">Ver</string>
+
+    <string name="desc_oncologia">En nuestro Staff médico tenemos médicos con gran experiencia y preparación a nivel nacional e internacional.</string>
+
+    <string name="bienvenida_app">Bienvenido</string>
+
+    <string name="textoinformacion">Somos una empresa de desarrolladores de aplicativos moviles, buscamos crecer, y dar soluciones ante
+    problemas de la sociedad, esta aplicacion fue creada pensando en la pandemia  Covid-19, que causa miedo a todos los pobladores del mundo
+    gracias a esta aplicacion se protegen de manera que no puedan juntarse y causar aglomeracion de personas.</string>
+
+    <string-array name="description">
+        <item>Se especializa en la cirugia general entes eso de ahi.</item>
+    </string-array>
+
+    <string-array name="especialidad">
+        <item>Medicina General</item>
+    </string-array>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/home32"
+            android:title="@string/menu_inicio" />
+        <item
+            android:id="@+id/nav_reservar"
+            android:icon="@drawable/registrarcita64"
+            android:title="@string/menu_reservar" />
+        <item
+            android:id="@+id/nav_citas"
+            android:icon="@drawable/citasmedicas64"
+            android:title="@string/menu_citas" />
+        <item
+            android:id="@+id/nav_historial"
+            android:icon="@drawable/historial64"
+            android:title="@string/menu_historial" />
+        <item
+            android:id="@+id/nav_ubicanos"
+            android:icon="@drawable/ubicacion64"
+            android:title="@string/menu_ubicacion" />
+    </group>
+
+    <item android:title="Comunicate">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/idNAV_INFORMACION"
+                    android:title="Informacion de la App"
+                    android:icon="@drawable/ic_app"/>
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/logout"
+                    android:title="@string/logout" />
+
+                <item
+                    android:id="@+id/nav_salir"
+                    android:icon="@drawable/ic_salir"
+                    android:title="@string/salir" />
+            </group>
+        </menu>
+    </item>
+</menu>
